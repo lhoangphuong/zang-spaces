@@ -15,4 +15,6 @@ class TestData():
 
     # Accounts
     ACCOUNT_1 = "MPaaSTest01@gmail.com"
+    ACCOUNT_2 = "MPaaSTest02@gmail.com"
+    ACCOUNT_3 = "MPaaSTest03@gmail.com"
     PASSWORD = "RAPtor_1234%"
