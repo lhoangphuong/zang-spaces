@@ -57,4 +57,4 @@ class Test_Zang_Spaces(Test_Zang_Spaces_Base):
 # Require to run the test
 if __name__ == '__main__':
     # specify path where the HTML reports for testcase execution are to be generated
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output= 'D:/Zang-Spaces/Reports'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output= 'C:/zang-spaces/Reports'))
